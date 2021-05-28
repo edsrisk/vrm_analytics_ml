@@ -1,0 +1,103 @@
+Vendor,Service Type,Contract ID,Strategic Risk,Legal and Regulatory Compliance,Financial Risk,Reputational,Information Security,Information Technology,Physical Security,Insurance Coverage,Service Risk Score
+Vend-87,Software Packages,Con-101,4,3,2,2,4,2,4,3,12
+Vend-61,Insurance,Con-102,2,4,2,2,4,3,1,3,10.5
+Vend-98,Hardware,Con-103,1,1,2,2,3,2,1,4,8
+Vend-54,Mail,Con-104,1,3,2,2,1,1,3,3,8
+Vend-70,Technical Consulting,Con-105,1,4,1,2,3,3,3,1,9
+Vend-63,Engineering,Con-106,2,2,3,3,1,4,4,3,11
+Vend-76,Stationary,Con-107,1,4,1,2,3,2,1,2,8
+Vend-57,Professional Services,Con-108,3,3,2,2,4,2,3,2,10.5
+Vend-99,Legal,Con-109,4,4,4,2,2,4,2,2,12
+Vend-54,Mail,Con-110,3,1,2,3,3,1,3,4,10
+Vend-82,Information Technology,Con-111,1,2,3,3,2,1,1,2,7.5
+Vend-56,Travel,Con-112,4,1,3,1,2,1,2,4,9
+Vend-91,Administrative Suppport,Con-113,3,3,1,2,2,2,3,3,9.5
+Vend-62,Technical Consulting,Con-114,1,3,3,2,2,3,1,3,9
+Vend-82,Stationary,Con-115,1,1,4,2,4,2,4,1,9.5
+Vend-76,Legal,Con-116,4,1,3,2,3,3,1,4,10.5
+Vend-85,Administrative Suppport,Con-117,2,2,1,1,1,2,3,1,6.5
+Vend-78,Software Packages,Con-118,3,2,2,1,1,2,4,2,8.5
+Vend-61,Technical Consulting,Con-119,4,4,4,2,2,4,3,3,13
+Vend-96,Professional Services,Con-120,3,3,4,2,4,1,2,3,11
+Vend-95,Mail,Con-121,2,4,1,3,2,2,3,2,9.5
+Vend-54,Technical Consulting,Con-122,2,4,4,1,1,3,4,4,11.5
+Vend-50,Software Packages,Con-123,3,3,4,3,1,3,2,2,10.5
+Vend-90,Professional Services,Con-124,2,4,3,4,1,4,1,1,10
+Vend-99,Insurance,Con-125,4,4,2,3,2,1,4,2,11
+Vend-71,Hardware,Con-126,3,1,1,2,2,4,2,2,8.5
+Vend-76,Insurance,Con-127,4,1,4,3,1,2,2,4,10.5
+Vend-61,Mail,Con-128,1,1,2,4,3,2,2,1,8
+Vend-63,Professional Services,Con-129,4,4,1,3,2,1,2,4,10.5
+Vend-98,Mail,Con-130,1,4,4,4,1,2,2,2,10
+Vend-91,Administrative Suppport,Con-131,2,3,3,2,4,4,2,3,11.5
+Vend-67,Mail,Con-132,1,4,4,1,1,2,4,4,10.5
+Vend-89,Insurance,Con-133,4,2,3,3,4,4,3,3,13
+Vend-77,Technical Consulting,Con-134,1,1,3,3,4,1,2,2,8.5
+Vend-63,Stationary,Con-135,4,3,3,3,1,3,1,4,11
+Vend-67,Mail,Con-136,3,2,1,4,3,3,3,1,10
+Vend-87,Travel,Con-137,4,2,3,2,1,3,2,2,9.5
+Vend-64,Stationary,Con-138,1,3,2,3,4,3,4,2,11
+Vend-67,Professional Services,Con-139,2,4,2,2,2,2,1,2,8.5
+Vend-70,Software Packages,Con-140,3,2,1,2,1,1,2,3,7.5
+Vend-68,Engineering,Con-141,3,4,4,3,3,1,2,1,10.5
+Vend-92,Administrative Suppport,Con-142,2,1,3,4,1,4,1,4,10
+Vend-51,Stationary,Con-143,1,1,1,2,4,2,1,2,7
+Vend-97,Software Packages,Con-144,4,4,4,3,4,3,4,4,15
+Vend-56,Mail,Con-145,4,2,3,2,2,2,1,1,8.5
+Vend-83,Professional Services,Con-146,4,4,4,1,3,2,3,2,11.5
+Vend-92,Mail,Con-147,3,3,2,3,2,1,3,4,10.5
+Vend-91,Insurance,Con-148,1,1,2,4,2,2,4,2,9
+Vend-86,Professional Services,Con-149,3,4,2,1,4,3,1,3,10.5
+Vend-79,Professional Services,Con-150,2,2,2,1,1,4,2,3,8.5
+Vend-51,Technical Consulting,Con-151,3,3,2,2,2,1,3,3,9.5
+Vend-84,Professional Services,Con-152,4,1,2,1,1,2,1,4,8
+Vend-99,Administrative Suppport,Con-153,2,3,3,2,1,1,4,1,8.5
+Vend-56,Administrative Suppport,Con-154,3,1,3,3,2,3,1,3,9.5
+Vend-56,Technical Consulting,Con-155,3,4,4,4,4,4,2,4,14.5
+Vend-81,Insurance,Con-156,1,3,4,1,1,3,2,1,8
+Vend-65,Administrative Suppport,Con-157,2,3,1,4,3,2,1,1,8.5
+Vend-79,Technical Consulting,Con-158,3,2,2,2,4,3,1,2,9.5
+Vend-61,Insurance,Con-159,1,2,3,3,4,1,2,4,10
+Vend-81,Mail,Con-160,1,2,1,4,3,4,1,3,9.5
+Vend-53,Printing,Con-161,4,1,1,4,1,3,4,4,11
+Vend-84,Engineering,Con-162,1,3,2,2,2,2,3,2,8.5
+Vend-50,Human Resources,Con-163,2,2,3,2,4,3,1,2,9.5
+Vend-67,Travel,Con-164,3,1,3,4,3,2,2,4,11
+Vend-72,Human Resources,Con-165,1,4,3,1,1,1,1,1,6.5
+Vend-79,Stationary,Con-166,4,3,2,3,2,4,4,2,12
+Vend-67,Professional Services,Con-167,3,3,1,2,2,2,4,1,9
+Vend-51,Mail,Con-168,4,3,1,1,1,2,3,1,8
+Vend-94,Administrative Suppport,Con-169,3,1,1,4,4,3,1,1,9
+Vend-91,Insurance,Con-170,1,1,2,2,1,1,2,3,6.5
+Vend-74,Professional Services,Con-171,4,3,4,4,2,2,2,4,12.5
+Vend-71,Human Resources,Con-172,4,3,3,2,4,2,1,4,11.5
+Vend-52,Mail,Con-173,1,3,1,3,1,4,3,3,9.5
+Vend-72,Professional Services,Con-174,3,3,4,4,4,1,3,2,12
+Vend-95,Administrative Suppport,Con-175,1,2,1,4,4,3,2,2,9.5
+Vend-99,Software Packages,Con-176,2,3,2,2,2,1,2,1,7.5
+Vend-99,Software Packages,Con-177,3,3,3,2,1,4,4,4,12
+Vend-83,Hardware,Con-178,1,3,2,1,2,4,4,1,9
+Vend-58,Mail,Con-179,2,3,2,3,3,3,4,3,11.5
+Vend-92,Technical Consulting,Con-180,4,3,3,3,2,3,2,3,11.5
+Vend-72,Software Packages,Con-181,2,2,2,1,3,4,3,1,9
+Vend-86,Software Packages,Con-182,3,2,1,3,3,4,2,4,11
+Vend-66,Technical Consulting,Con-183,3,4,2,3,3,3,3,3,12
+Vend-94,Technical Consulting,Con-184,2,3,2,2,3,1,3,4,10
+Vend-57,Mail,Con-185,2,3,4,2,1,2,1,4,9.5
+Vend-83,Technical Consulting,Con-186,4,3,2,4,1,1,4,4,11.5
+Vend-64,Stationary,Con-187,1,3,3,2,1,3,4,4,10.5
+Vend-94,Travel,Con-188,4,2,3,4,4,1,1,1,10
+Vend-66,Software Packages,Con-189,1,2,3,4,3,3,3,2,10.5
+Vend-65,Insurance,Con-190,1,3,3,2,2,2,2,1,8
+Vend-61,Hardware,Con-191,3,1,4,1,2,2,4,2,9.5
+Vend-86,Engineering,Con-192,1,2,1,1,3,1,1,2,6
+Vend-58,Professional Services,Con-193,3,4,4,4,4,2,4,3,14
+Vend-71,Insurance,Con-194,3,1,4,3,4,1,2,4,11
+Vend-61,Stationary,Con-195,3,2,2,1,1,4,2,3,9
+Vend-89,Administrative Suppport,Con-196,2,1,2,3,4,4,4,4,12
+Vend-79,Mail,Con-197,2,4,1,1,4,3,2,2,9.5
+Vend-75,Insurance,Con-198,4,2,3,4,2,3,2,2,11
+Vend-84,Administrative Suppport,Con-199,3,2,4,1,2,3,1,2,9
+Vend-64,Engineering,Con-200,4,3,4,1,1,3,4,2,11
+Best Case,Best Case,Best Case,1,1,1,1,1,1,1,1,4
+Worst Case,Worst Case,Worst Case,4,4,4,4,4,4,4,4,16
