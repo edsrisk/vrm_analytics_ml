@@ -1,0 +1,2 @@
+# vrm_analytics_ml
+This program uses a sample excel file to import data and perform some analysis and visualization of categorical data. The goal of this program is to generate data for use in vendor risk management reports at the program level, risk assessment level and vendor level (aggregation of vendor contracts), and perform risk scoring of the vendors, calculate the accuracy, precision, recall of the model using the classification report in sklearn
